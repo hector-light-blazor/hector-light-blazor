@@ -1,7 +1,21 @@
 ### Hi there! My name is Hector 👋
 
 
-### 📫 How to reach me: By e-mail is the fastest way to reach me at roensebastian2015@gmail.com
+### 📫 How to reach me: E-mail is the fastest way to reach me at roensebastian2015@gmail.com
+
+
+👨🏻‍💻  Currently working as a Full Stack Software Engineer.
+🌱 I’m currently learning iOS Development and React
+🔭 I’m currently working on Vue 3 Game Development: <a href="https://sebastian-boy.netlify.app">Preview</a>
+💬 Ask me about ⚡ Vue.js ⚡ JavaScript ⚡ Postgresql ⚡ C# ⚡ Entity Framework
+
+🛠  Tech Stack
+Blazor C# JavaScript Entity Framework Vue JS Angular
+
+
+Used Before:
+
+Python Flask Vue Angular PHP Electron NodeJS
 
 
 <!--
