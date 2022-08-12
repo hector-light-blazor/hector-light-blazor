@@ -5,14 +5,16 @@
 
 
 👨🏻‍💻  Currently working as a Full Stack Software Engineer.
-🌱 I’m currently learning iOS Development and React
-🔭 I’m currently working on Vue 3 Game Development: <a href="https://sebastian-boy.netlify.app">Preview</a>
+<br />
+🌱 I’m currently learning iOS Development and React <br />
+🔭 I’m currently working on Vue 3 Game Development: <a href="https://sebastian-boy.netlify.app">Preview</a> <br />
 💬 Ask me about ⚡ Vue.js ⚡ JavaScript ⚡ Postgresql ⚡ C# ⚡ Entity Framework
+<br />
 
 🛠  Tech Stack
 Blazor C# JavaScript Entity Framework Vue JS Angular
 
-
+<br />
 Used Before:
 
 Python Flask Vue Angular PHP Electron NodeJS
