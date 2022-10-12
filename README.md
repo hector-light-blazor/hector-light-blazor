@@ -7,8 +7,9 @@
 👨🏻‍💻  Currently working as a Full Stack Software Engineer.
 <br />
 🌱 I’m currently learning iOS Development and React <br />
+🔭 I’m currently studying for my AWS Cloud Practioner Certification <br />
 🔭 I’m currently working on Vue 3 Game Development: <a href="https://sebastian-boy.netlify.app">Preview</a> <br />
-💬 Ask me about ⚡ Vue.js ⚡ JavaScript ⚡ Postgresql ⚡ C# ⚡ Entity Framework
+💬 Ask me about ⚡ Vue.js ⚡ Angular ⚡ JavaScript ⚡ Postgresql ⚡ MS SQL  ⚡ C# ⚡ Entity Framework
 <br />
 
 🛠  Tech Stack
