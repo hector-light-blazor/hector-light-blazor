@@ -4,7 +4,7 @@
 ### 📫 How to reach me: E-mail is the fastest way to reach me at roensebastian2015@gmail.com
 
 
-👨🏻‍💻  Currently working as a Full Stack Software Engineer.
+👨🏻‍💻  Currently employed as a Full Stack Software Engineer.
 <br />
 🌱 I’m currently learning iOS Development and React <br />
 🔭 I’m currently studying for my AWS Cloud Practioner Certification <br />
