@@ -33,6 +33,13 @@
       <a href="https://github.com/hector-light-blazor/Blazor-Sanitation-Admin">Link</a>
     </td>
   </tr>
+  <tr>
+    <td>
+       <p>As a technologist with a passion for C# experimenting GIS with Blazor application.</p>
+      <img src="https://github.com/hector-light-blazor/Blazor-Geovenci/blob/master/Files/PreviewApp.png?raw=true"/>
+      <a href="https://github.com/hector-light-blazor/Blazor-Geovenci">Link</a>
+    </td>
+  </tr>
 </table>
 
 
