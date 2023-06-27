@@ -6,11 +6,35 @@
 
 👨🏻‍💻  Currently employed as a Full Stack Software Engineer.
 <br />
-🌱 I’m currently learning iOS Development and React <br />
+🌱 I’m currently learning .Net MAUI <br />
 🔭 I’m currently studying for my AWS Cloud Practioner Certification <br />
-🔭 I’m currently working on Vue 3 Game Development: <a href="https://sebastian-boy.netlify.app">Preview</a> <br />
+🔭 I’m currently working on .Net MAUI Application <br />
 💬 Ask me about ⚡ Vue.js ⚡ Angular ⚡ JavaScript ⚡ Postgresql ⚡ MS SQL  ⚡ C# ⚡ Entity Framework
 <br />
+
+
+🛠 Project Highlits
+
+<table>
+  <tr>
+    <td>
+      <p>Project I am currently working. I am helping my friend who works at the City of McAllen. He needs an application to Track Sanitation Purposes. Originally was created with PHP, Postgresql, and ESRI app Studio. I ported the project using the following.</p>
+      <p>
+        <ul>
+          <li>C#</li>
+          <li>EF Core</li>
+          <li>Migrations</li>
+          <li>MAUI</li>
+          <li>Web API</li>
+          <li>Blazor</li>
+        </ul>
+      </p>
+      <img src="https://github.com/hector-light-blazor/Blazor-Sanitation-Admin/blob/main/Snapshots/software_snapshot.png?raw=true"  />
+      <a href="https://github.com/hector-light-blazor/Blazor-Sanitation-Admin">Link</a>
+    </td>
+  </tr>
+</table>
+
 
 🛠  Tech Stack
 Blazor C# JavaScript Entity Framework Vue JS Angular
